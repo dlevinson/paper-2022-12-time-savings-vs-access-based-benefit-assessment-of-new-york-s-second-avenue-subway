@@ -1,0 +1,13 @@
+file,rows,columns,description
+"data/2019 Subway ridership Tables_UL.xlsx",variable,variable,"MTA 2019 subway ridership workbook with average weekday, weekend, annual total, and closure sheets."
+"code/Panel Data Regression.R",,,"R script for panel-data regression analysis."
+"data/property/All_Rental.csv",,,"Rental-property data table."
+"data/property/Property_Level_All_Rental_Access.csv",,,"Property-level rental/accessibility joined table."
+"data/property/Sold_Property_Access.csv",,,"Sold-property/accessibility joined table."
+"data/accessibility/35620_tr_2014_0700-0859.csv",,,"2014 transit accessibility extract."
+"data/accessibility/35620_tr_2015_0700-0859.csv",,,"2015 transit accessibility extract."
+"data/accessibility/35620_tr_2016_0700-0859.csv",,,"2016 transit accessibility extract."
+"data/accessibility/35620_tr_2017_0700-0859.csv",,,"2017 transit accessibility extract."
+"data/accessibility/tr_30_2018_Simplified.csv",,,"Simplified 2018 transit accessibility extract."
+"data/accessibility/2018DataDoc_all_LEHD.pdf",,,"2018 accessibility data documentation."
+"data/accessibility/2019DataDoc_all_LEHD.pdf",,,"2019 accessibility data documentation."
