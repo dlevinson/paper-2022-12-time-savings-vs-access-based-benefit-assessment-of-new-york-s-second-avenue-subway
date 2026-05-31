@@ -1,14 +1,20 @@
 path,role,size_bytes,sha256,source_path_or_note
-"code/Panel Data Regression.R",code,2159,bfaef26610ff444c28142d7f6573da983fdd99a4bf5ae06bdeb47a7d4d868efa,"Yadi Wang delivery, Second_Ave_paper folder, 2026-05-31"
-"data/2019 Subway ridership Tables_UL.xlsx",data,217464,4d850875c178514e0368b814a41d0b9336e36bfabcdddcfd002319ddc668fd27,"Yadi Wang delivery, Second_Ave_paper folder, 2026-05-31"
-"data/accessibility/2018DataDoc_all_LEHD.pdf",documentation,131936,148c8b448002ac858038dd0d50508be89f82b5bce2b559ee7ae7baf229c35386,"Yadi Wang delivery, Second_Ave_paper folder, 2026-05-31"
-"data/accessibility/2019DataDoc_all_LEHD.pdf",documentation,136379,9e166684229ab5aae3c4952e4509f46224e1953e2388ac4afed90e40ef74f66e,"Yadi Wang delivery, Second_Ave_paper folder, 2026-05-31"
-"data/accessibility/35620_tr_2014_0700-0859.csv",data,5422199,6f74f9e3e7fe01433ce94bdcd4501751852221b033f4a9a10b3942fddca66f40,"Yadi Wang delivery, Second_Ave_paper folder, 2026-05-31"
-"data/accessibility/35620_tr_2015_0700-0859.csv",data,5404876,63cb3e3102f18aadefb5bf9adb80360d802ecdce15901d77c5cfac8d0ec70270,"Yadi Wang delivery, Second_Ave_paper folder, 2026-05-31"
-"data/accessibility/35620_tr_2016_0700-0859.csv",data,5401233,65ae9c2905e69c16b23e7712e923acae37e31bd74d81fdbfa1edb756031eef6f,"Yadi Wang delivery, Second_Ave_paper folder, 2026-05-31"
-"data/accessibility/35620_tr_2017_0700-0859.csv",data,8145279,a5b7c5d60ef79da8a4dc217d409863fdf06a33d7563d2b921c1409f448186823,"Yadi Wang delivery, Second_Ave_paper folder, 2026-05-31"
-"data/accessibility/tr_30_2018_Simplified.csv",data,3805578,03699d7fe6969fa0fc5bbc9f5eb676d71f61c35c7588f42547d05e0bb4d2dae7,"Yadi Wang delivery, Second_Ave_paper folder, 2026-05-31"
-"data/property/All_Rental.csv",data,1061331,ade0171fea7c9651216f524b02c6387422ac07b122ec9206b879cbd89dee18d1,"Yadi Wang delivery, Second_Ave_paper folder, 2026-05-31"
-"data/property/Property_Level_All_Rental_Access.csv",data,1213641,7d0129242b9f51772086e22c20f5768573f6de201db78d447672c67f6d548ea5,"Yadi Wang delivery, Second_Ave_paper folder, 2026-05-31"
-"data/property/Sold_Property_Access.csv",data,1639276,762d2e99e774007bde12cacdf3310c39f0d398604f818c46eee0a3cbcfd53052,"Yadi Wang delivery, Second_Ave_paper folder, 2026-05-31"
-"paper/time_savings_vs_accessbased_benefit_assessment_of_new_yorks_second_avenue_subway.pdf",paper_reference,1291469,7d4b6081cff2617415926b68e68e898f9fc9b160b61483069ad3690fb801fbe5,"Local reference copy from published paper folder"
+CHECKSUMS.sha256,checksum,1835,3bef7ec24c8c65089a93e8836dcad5651e5aa2662d580d5ebe7cf29947906129,Generated package checksums
+DATA_DICTIONARY.csv,documentation,1163,04a43fe843191cf8e05090ad22c9bae7d797e9996a273cdc626e52de8b80c374,Repository documentation
+EXCLUDED_LARGE_PUBLIC_SOURCE_FILES.md,documentation,1035,319834b2e141b8e7efe9430f79c3a4aaf85c14b1ac19a202946bd448d430ba07,Repository documentation
+LICENSE.md,documentation,1877,d9c2edb0ff530c9325dc0ac58c50f5bef8493fe184cb3dc73a82a5f2df8ae744,Repository documentation
+LICENSE_STATUS.md,documentation,555,12b7c6a1f70de9fa9d33c2ff86b3146f3dc4150741a1bbb6fb41847ef4c884be,Repository documentation
+README.md,documentation,2131,fea5dfb0c88ac0c75062118b2cc0acf83d146f0876c107f6b730669c26bf738a,Repository documentation
+code/Panel Data Regression.R,code,2159,bfaef26610ff444c28142d7f6573da983fdd99a4bf5ae06bdeb47a7d4d868efa,"Yadi Wang delivery, 2026-05-31"
+data/2019 Subway ridership Tables_UL.xlsx,data,217464,4d850875c178514e0368b814a41d0b9336e36bfabcdddcfd002319ddc668fd27,"Yadi Wang delivery, 2026-05-31"
+data/accessibility/2018DataDoc_all_LEHD.pdf,documentation,131936,148c8b448002ac858038dd0d50508be89f82b5bce2b559ee7ae7baf229c35386,"Yadi Wang delivery, 2026-05-31"
+data/accessibility/2019DataDoc_all_LEHD.pdf,documentation,136379,9e166684229ab5aae3c4952e4509f46224e1953e2388ac4afed90e40ef74f66e,"Yadi Wang delivery, 2026-05-31"
+data/accessibility/35620_tr_2014_0700-0859.csv,data,5422199,6f74f9e3e7fe01433ce94bdcd4501751852221b033f4a9a10b3942fddca66f40,"Yadi Wang delivery, 2026-05-31"
+data/accessibility/35620_tr_2015_0700-0859.csv,data,5404876,63cb3e3102f18aadefb5bf9adb80360d802ecdce15901d77c5cfac8d0ec70270,"Yadi Wang delivery, 2026-05-31"
+data/accessibility/35620_tr_2016_0700-0859.csv,data,5401233,65ae9c2905e69c16b23e7712e923acae37e31bd74d81fdbfa1edb756031eef6f,"Yadi Wang delivery, 2026-05-31"
+data/accessibility/35620_tr_2017_0700-0859.csv,data,8145279,a5b7c5d60ef79da8a4dc217d409863fdf06a33d7563d2b921c1409f448186823,"Yadi Wang delivery, 2026-05-31"
+data/accessibility/tr_30_2018_Simplified.csv,data,3805578,03699d7fe6969fa0fc5bbc9f5eb676d71f61c35c7588f42547d05e0bb4d2dae7,"Yadi Wang delivery, 2026-05-31"
+data/property/All_Rental.csv,data,1061331,ade0171fea7c9651216f524b02c6387422ac07b122ec9206b879cbd89dee18d1,"Yadi Wang delivery, 2026-05-31"
+data/property/Property_Level_All_Rental_Access.csv,data,1213641,7d0129242b9f51772086e22c20f5768573f6de201db78d447672c67f6d548ea5,"Yadi Wang delivery, 2026-05-31"
+data/property/Sold_Property_Access.csv,data,1639276,762d2e99e774007bde12cacdf3310c39f0d398604f818c46eee0a3cbcfd53052,"Yadi Wang delivery, 2026-05-31"
+metadata/COAUTHOR_DELIVERY_20260531.md,documentation,406,56632090a8a3e7085edf1bc7263d769ccd608e30803bca58c60b07f15b782975,Repository documentation
