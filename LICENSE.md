@@ -6,7 +6,7 @@ The author-created analysis script in `code/` is released under the MIT License.
 
 Author-created paper-specific derived tables and repository documentation are released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), unless a file-level note says otherwise.
 
-Third-party or public-institutional source material, including MTA, NYC Department of Finance, and University of Minnesota Accessibility Observatory source extracts, remains under its original source terms. Inclusion here is for reproducibility and provenance; it does not relicense those source records as author-created material.
+Third-party or public-institutional source material, including MTA and NYC Department of Finance records, remains under its original source terms. The accessibility files included here are locally supplied paper-specific scenario outputs; inclusion here is for reproducibility and provenance and does not relicense any underlying third-party input records as author-created material.
 
 The published article is cited by DOI and is not redistributed in this repository.
 
